@@ -4,6 +4,56 @@ image-resolution: 100%;
 
 
 }
+#heading{background-color: rgb(0, 0, 0);
+    color: wheat;
+    border: 5px solid rgb(87, 231, 85);
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+
+}
+a{  text-decoration:none;
+color:  wheat;
+}
+.olp{
+    border: 10px solid greenyellow ;
+    border-radius: 40px;height: 100px; width: 300px; font-size: x-large; 
+    background-color:rgb(2, 71, 2);
+    margin-left: 39px;
+    margin-top: 85px;
+    padding-top: 35px;
+    padding-left: 12px;
+    font-size: large;
+    font-size: 30px;
+    
+ }
+.olp1{
+    border: 10px solid rgb(36, 67, 0) ;
+    border-radius: 40px;height: 100px; width: 600px; font-size: x-large; 
+    background-color:rgba(11, 11, 11, 0.905);
+    margin-left: 309px;
+    margin-top: 5px;
+    padding-top: 35px;
+    padding-left: 102px;
+    position: absolute;
+    top: 300px;
+    
+ }
+ #sp{
+    padding-right: 22px;
+        border-right-width: 8px;
+        margin-right: 682px;
+        display:flex ;
+ }
+ .blcs{
+    
+    margin-left: 15px;
+    margin-right: 5px;
+    border-right-width: 25px;
+    padding-right: 0px;
+    padding-left: 0px;
+ }
 #heading{
     background-color: rgb(0, 0, 0);
     color: wheat;
